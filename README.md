@@ -1,0 +1,2 @@
+# Functional Code editor
+ This HTML code editor is a web-based tool that enables users to write, execute, and preview HTML, CSS, and JavaScript code. It consists of three sections: HTML, CSS, and JS editors, each with a textarea for input. The code is executed in an iframe preview panel, with a "Run" button and a "Toggle Dark Mode" button. The code uses Bootstrap 5 for styling and Font Awesome for icons.
